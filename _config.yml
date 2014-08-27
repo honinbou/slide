@@ -1,0 +1,10 @@
+#markdown: rdiscount
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+url: http://slide.iguowei.com
+author: guowei
+pygments: true
+safe: true
+paginate: 16
+auto: true
+
