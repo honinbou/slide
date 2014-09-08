@@ -13,6 +13,7 @@ tags: [slide]
   </head>
   <body>
     <textarea id="source">
+
 name: inverse
 layout: true
 class: center, middle, inverse
